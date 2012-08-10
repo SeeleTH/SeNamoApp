@@ -286,7 +286,11 @@
       <created>1344565988721</created>
       <updated>1344565988721</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="DB CONFIG1">
+      <created>1344566020265</created>
+      <updated>1344566020265</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
